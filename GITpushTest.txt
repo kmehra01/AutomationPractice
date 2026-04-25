@@ -1,0 +1,3 @@
+What type of Locator is it do we realy need such locators
+await page.locator('iframe[name="a-j99vtks2x793"]').contentFrame().getByRole('checkbox', { name: 'I\'m not a robot' }).click();
+
